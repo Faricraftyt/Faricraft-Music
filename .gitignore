@@ -1,0 +1,3 @@
+node_modules/
+.netlify/cache/
+.netlify/functions-serve/
